@@ -76,6 +76,7 @@ body, .card_container, .card_content,
 
 body {
   background-color: var(--Very_dark_blue_main_background);
+  flex-direction: column;
   justify-content: center;
   align-items: center;
   padding: 1.25rem;
